@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Pulse_excitation_2D_system
 {
-    public partial class Form1 : Form
+    public partial class Main_form : Form
     {
-        public Form1()
+        public Main_form()
         {
             InitializeComponent();
         }
